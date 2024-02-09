@@ -45,9 +45,16 @@
 - El anterior paso nos permitira tener una version compatible para trabajarla con android.
 > El proyecto original tenemos que modificar la construccion de android, para evitarnos todo ello es que creamos un nuevo proyecto y traspasamos los archivos necesarios para su funcionamiento
 
+- Por ultimo veremos que la aplicacion esta ejecutandose bien
+  
+[![imagen-2024-02-08-194100538.png](https://i.postimg.cc/YqrvbLGs/imagen-2024-02-08-194100538.png)](https://postimg.cc/XXPNvJgf)
+
 ## Cosas a tomar en cuenta
 
-El aplicativo compilara correctamente, sin embargo no veremos que los datos carguen, esto se debe a que la aplciacion usa su propio backend y este esta caido, por lo que no puede usar los datos que se traen de la api de weather
+El aplicativo compilara correctamente, sin embargo no veremos que los datos carguen, esto se debe a que la aplciacion usa su propio backend y este esta caido, por lo que no puede usar los datos que se traen de la api de weather.
 
-## APK
-[Google Drive:  ](  https://drive.google.com/file/d/12-q5FLWxkwk8XPNNd8ykMVsbD5r5vh6_/view?usp=sharing)https://drive.google.com/file/d/12-q5FLWxkwk8XPNNd8ykMVsbD5r5vh6_/view?usp=sharing)
+[![imagen-2024-02-08-193936288.png](https://i.postimg.cc/59FgbGsV/imagen-2024-02-08-193936288.png)](https://postimg.cc/jCtPh8Vg)
+> Aqui es donde vemos que ya no existe el servidor
+
+## APK y Aplicacion de escritorio
+[Google Drive:  ](  https://drive.google.com/drive/folders/1jI6tupCcAVN6-Odx5MILYlikoD5TNdvj?usp=sharing)https://drive.google.com/drive/folders/1jI6tupCcAVN6-Odx5MILYlikoD5TNdvj?usp=sharing)
